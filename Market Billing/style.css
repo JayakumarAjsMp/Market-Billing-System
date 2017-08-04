@@ -1,0 +1,119 @@
+body{
+	background-image: url("images/1.jpg");
+	background-size: 100% 100%;
+}
+#form{
+	background-color: #CCFFFF;
+	padding: 20px;
+	border-radius: 10px;
+	width: 700px;
+	box-shadow: 0px 0px 10px rgba(0,0,0,0.2);
+	position: relative;
+}
+#form2{
+	background-color: #CCFFFF;
+	padding: 20px;
+	border-radius: 10px;
+	width: 1200px;
+	box-shadow: 0px 0px 10px rgba(0,0,0,0.2);
+	position: relative;
+}
+#form3{
+	background-color: #CCFFFF;
+	padding: 20px;
+	border-radius: 10px;
+	width: 1100px;
+	box-shadow: 0px 0px 10px rgba(0,0,0,0.2);
+	position: relative;
+}
+#nav{
+	background-color: #CCFFFF;
+	padding: 20px;
+	padding-bottom: 50px;
+	border-radius: 10px;
+	width: 100%;
+	height: 10px;
+	box-shadow: 0px 0px 10px rgba(0,0,0,0.2);
+	position: relative;
+}
+#pd{
+	float: right;
+}
+#add{
+	width: 70px;
+	height: 30px;
+	border-radius: 7px;
+	border: none;
+	box-shadow: 0px 0px 10px rgba(13, 110, 47, 1);
+	color:red;
+	background-color:#42f4bc;
+	text-align: center;
+
+}
+#add1,#submit{
+	width: 70px;
+	height: 30px;
+	border-radius: 7px;
+	border: none;
+	box-shadow: 0px 0px 10px rgba(13, 110, 47, 1);
+	background-color:#42f4bc;
+	text-align: center;
+}
+.header{
+	background-color: #CCFFFF;
+	padding: 20px;
+	border-radius: 10px;
+	width: 1650px;
+	height: 50px;
+	box-shadow: 0px 0px 10px rgba(13, 110, 47, 1);
+	position: relative;
+}
+#food{
+	width: 180px;
+	height: 30px;
+	border-radius: 7px;
+	border: none;
+	box-shadow: 0px 0px 10px rgba(13, 110, 47, 1);
+}
+#bar,#cost,#company,#gst,#name{
+	width: 180px;
+	height: 30px;
+	border-radius: 7px;
+	border: none;
+	box-shadow: 0px 0px 10px rgba(13, 110, 47, 1);
+}
+#q{
+	width: 30px;
+	height: 30px;
+	border-radius: 7px;
+	border: none;
+	box-shadow: 0px 0px 10px rgba(13, 110, 47, 1);
+}
+header, footer {
+    padding: 1em;
+    color: black;
+    
+    clear: left;
+    text-align: center;
+}
+#foot{
+	background-color: white;
+	color: blue;
+}
+#table{
+	width: 700px;
+	height: 200px;
+	background: #00FFFF;
+}
+#button{
+	background-color: #999900;
+	font-size: 30px;
+	width: 120px;
+	height: auto;
+	border: none;
+	color: white;
+	border-radius: 2px;
+}
+#button:hover{
+	box-shadow: 0px 0px 30px;
+}
